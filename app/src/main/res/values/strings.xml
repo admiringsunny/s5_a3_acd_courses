@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">S5A3AcadGildCourses</string>
+    <string name="courses_list_heading">Select your favorite ACADGILD course:</string>
+
+    <string-array name="courses_names">
+        <item>Linux Fundamentals</item>
+        <item>Scala Programming</item>
+        <item>Raspberry Pi</item>
+        <item>Android Programming For Children</item>
+        <item>Business Analytics With R</item>
+        <item>Unity 2D</item>
+        <item>Node JS</item>
+        <item>Android</item>
+        <item>Machine Learning With R</item>
+        <item>Python Programming For Children</item>
+        <item>Frontend Web Development</item>
+        <item>Full Stack Web Development</item>
+        <item>Cloud Computing</item>
+        <item>Big Data Development</item>
+        <item>Digital Marketing</item>
+        <item>Java for Freshers</item>
+        <item>Guaranteed job - Android</item>
+        <item>Guaranteed job - Frontend</item>
+        <item>Apache Spark</item>
+        <item>Frontend Bundle</item>
+        <item>Java</item>
+        <item>Big Data Bundle</item>
+        <item>Frontend Web Development Fundamentals</item>
+        <item>Mobile Bundle</item>
+        <item>Robotics</item>
+        <item>Cloud Bundle</item>
+        <item>Big Data Administration</item>
+        <item>Arduino</item>
+    </string-array>
+
+    <string-array name="course_mentors">
+        <item>Linu</item>
+        <item>Scarlet</item>
+        <item>Rashi</item>
+        <item>Andy</item>
+        <item>Bush</item>
+        <item>Uni Krishna</item>
+        <item>Andy</item>
+        <item>Rio</item>
+        <item>Pinky</item>
+        <item>Froy</item>
+        <item>Stan</item>
+        <item>Catherene</item>
+        <item>Bobby</item>
+        <item>Linu</item>
+        <item>Scarlet</item>
+        <item>Rashi</item>
+        <item>Andy</item>
+        <item>Bush</item>
+        <item>Uni Krishna</item>
+        <item>Andy</item>
+        <item>Rio</item>
+        <item>Pinky</item>
+        <item>Froy</item>
+        <item>Stan</item>
+        <item>Catherene</item>
+        <item>Bobby</item>
+        <item>Noman</item>
+        <item>Noman</item>
+
+    </string-array>
+</resources>
